@@ -1,299 +1,146 @@
 {
-    "questions": [
-      {
-        "question": "How do you usually make decisions?",
-        "answers": [
-          {
-            "answer": "Based on logic and facts",
-            "tags": ["analytical", "logical", "STEM", "engineering", "law"]
-          },
-          {
-            "answer": "By considering how others feel",
-            "tags": ["empathetic", "emotional intelligence", "health", "psychology", "education"]
-          },
-          {
-            "answer": "Through instinct or gut feeling",
-            "tags": ["intuitive", "creative", "arts", "media"]
-          },
-          {
-            "answer": "After discussing with others",
-            "tags": ["collaborative", "social", "leadership", "humanities"]
-          }
-        ]
-      },
-      {
-        "question": "What energizes you most?",
-        "answers": [
-          {
-            "answer": "Time alone to reflect and think",
-            "tags": ["introvert", "research", "writing", "science"]
-          },
-          {
-            "answer": "Being around people and sharing ideas",
-            "tags": ["extrovert", "communication", "leadership", "media"]
-          },
-          {
-            "answer": "Creating or building something",
-            "tags": ["maker", "creative", "STEM", "design"]
-          },
-          {
-            "answer": "Solving real-world problems",
-            "tags": ["pragmatic", "strategic", "business", "law"]
-          }
-        ]
-      },
-      {
-        "question": "How do you approach new experiences?",
-        "answers": [
-          {
-            "answer": "Curious and excited",
-            "tags": ["explorer", "creative", "innovation", "interdisciplinary"]
-          },
-          {
-            "answer": "Cautiously and methodically",
-            "tags": ["planner", "reliable", "law", "health"]
-          },
-          {
-            "answer": "Open-minded and flexible",
-            "tags": ["adaptable", "artistic", "humanities", "media"]
-          },
-          {
-            "answer": "With a strategic plan",
-            "tags": ["goal-oriented", "business", "project management", "finance"]
-          }
-        ]
-      },
-      {
-        "question": "What motivates you the most?",
-        "answers": [
-          {
-            "answer": "Solving tough challenges",
-            "tags": ["problem-solver", "science", "engineering", "math"]
-          },
-          {
-            "answer": "Helping others grow and succeed",
-            "tags": ["nurturing", "education", "psychology", "social work"]
-          },
-          {
-            "answer": "Expressing myself and being original",
-            "tags": ["creative", "arts", "media", "storytelling"]
-          },
-          {
-            "answer": "Achieving success and recognition",
-            "tags": ["ambition", "leadership", "business", "law"]
-          }
-        ]
-      },
-      {
-        "question": "When working on a project, what’s your role?",
-        "answers": [
-          {
-            "answer": "The planner – I organize everything",
-            "tags": ["organized", "manager", "law", "business", "academia"]
-          },
-          {
-            "answer": "The creator – I bring ideas to life",
-            "tags": ["innovator", "arts", "design", "media", "creative"]
-          },
-          {
-            "answer": "The researcher – I dive deep into the details",
-            "tags": ["analytical", "science", "research", "psychology"]
-          },
-          {
-            "answer": "The communicator – I lead or present",
-            "tags": ["communicator", "extrovert", "leadership", "humanities"]
-          }
-        ]
-      },
-      {
-        "question": "What do your friends say you’re best at?",
-        "answers": [
-          {
-            "answer": "Listening and understanding others",
-            "tags": ["empathetic", "psychology", "health", "education"]
-          },
-          {
-            "answer": "Explaining complex ideas simply",
-            "tags": ["teacher", "academic", "science", "communication"]
-          },
-          {
-            "answer": "Entertaining and inspiring people",
-            "tags": ["charismatic", "media", "arts", "creative"]
-          },
-          {
-            "answer": "Staying calm and solving problems",
-            "tags": ["resilient", "STEM", "law", "engineering"]
-          }
-        ]
-      },
-      {
-        "question": "In a group setting, you prefer to:",
-        "answers": [
-          {
-            "answer": "Lead and coordinate the group",
-            "tags": ["leader", "entrepreneurship", "management", "law"]
-          },
-          {
-            "answer": "Support others and encourage teamwork",
-            "tags": ["helper", "health", "education", "teamwork"]
-          },
-          {
-            "answer": "Bring creative ideas to the table",
-            "tags": ["idea generator", "arts", "design", "innovation"]
-          },
-          {
-            "answer": "Work quietly behind the scenes",
-            "tags": ["introvert", "research", "science", "technical"]
-          }
-        ]
-      },
-      {
-        "question": "What’s your ideal kind of challenge?",
-        "answers": [
-          {
-            "answer": "A logical puzzle or math problem",
-            "tags": ["logical", "STEM", "engineering", "math"]
-          },
-          {
-            "answer": "Resolving conflict or misunderstandings",
-            "tags": ["diplomatic", "law", "humanities", "politics"]
-          },
-          {
-            "answer": "Making something unique or beautiful",
-            "tags": ["creative", "arts", "media", "design"]
-          },
-          {
-            "answer": "Helping someone understand themselves better",
-            "tags": ["empathetic", "psychology", "health", "education"]
-          }
-        ]
-      },
-      {
-        "question": "How do you handle stress?",
-        "answers": [
-          {
-            "answer": "I make a checklist or plan",
-            "tags": ["structured", "academic", "law", "business"]
-          },
-          {
-            "answer": "I talk it through with someone",
-            "tags": ["relational", "health", "social work", "education"]
-          },
-          {
-            "answer": "I distract myself through a creative activity",
-            "tags": ["expressive", "art", "media", "writing"]
-          },
-          {
-            "answer": "I go into problem-solving mode",
-            "tags": ["focused", "engineering", "math", "logic"]
-          }
-        ]
-      },
-      {
-        "question": "What gives you a sense of fulfillment?",
-        "answers": [
-          {
-            "answer": "Helping others in meaningful ways",
-            "tags": ["compassionate", "health", "education", "psychology"]
-          },
-          {
-            "answer": "Achieving a personal or academic goal",
-            "tags": ["driven", "law", "business", "STEM"]
-          },
-          {
-            "answer": "Creating or performing something impactful",
-            "tags": ["expressive", "arts", "media", "design"]
-          },
-          {
-            "answer": "Discovering something new or figuring things out",
-            "tags": ["inquisitive", "science", "research", "engineering"]
-          }
-        ]
-      },
-      {
-        "question": "You prefer routines that are:",
-        "answers": [
-          {
-            "answer": "Structured and predictable",
-            "tags": ["organized", "law", "business", "academic"]
-          },
-          {
-            "answer": "Flexible and ever-changing",
-            "tags": ["creative", "artistic", "media", "travel"]
-          },
-          {
-            "answer": "Goal-based with clear outcomes",
-            "tags": ["motivated", "project-oriented", "STEM", "entrepreneurship"]
-          },
-          {
-            "answer": "People-centered and supportive",
-            "tags": ["empathic", "psychology", "health", "education"]
-          }
-        ]
-      },
-      {
-        "question": "If you could pick a superpower, it would be:",
-        "answers": [
-          {
-            "answer": "Solving any problem instantly",
-            "tags": ["logical", "science", "engineering", "STEM"]
-          },
-          {
-            "answer": "Understanding everyone’s emotions",
-            "tags": ["emotional intelligence", "psychology", "health", "counseling"]
-          },
-          {
-            "answer": "Creating anything from imagination",
-            "tags": ["creative", "arts", "design", "media"]
-          },
-          {
-            "answer": "Persuading anyone of your ideas",
-            "tags": ["communicator", "law", "business", "politics"]
-          }
-        ]
-      },
-      {
-        "question": "How do you like to express yourself?",
-        "answers": [
-          {
-            "answer": "Through visuals, music, or performance",
-            "tags": ["creative", "arts", "media", "expression"]
-          },
-          {
-            "answer": "Through writing and deep conversations",
-            "tags": ["reflective", "humanities", "psychology", "communication"]
-          },
-          {
-            "answer": "Through experiments and data",
-            "tags": ["scientific", "engineering", "research", "logic"]
-          },
-          {
-            "answer": "Through leading and motivating others",
-            "tags": ["leader", "entrepreneurship", "business", "law"]
-          }
-        ]
-      },
-      {
-        "question": "What type of tasks drain your energy most?",
-        "answers": [
-          {
-            "answer": "Too much small talk or group work",
-            "tags": ["introvert", "independent", "research", "science"]
-          },
-          {
-            "answer": "Repetitive and rigid routines",
-            "tags": ["creative", "innovative", "art", "media"]
-          },
-          {
-            "answer": "Tasks with no clear goal or purpose",
-            "tags": ["strategic", "business", "law", "STEM"]
-          },
-          {
-            "answer": "Solo work with little interaction",
-            "tags": ["social", "team-based", "health", "education"]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "name": "Personality Test",
+  "description": "This quiz helps you explore your personality traits—like creativity, logic, empathy, or leadership—and suggests university paths that align with how you think, feel, and work.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How do you usually make decisions?",
+      "answers": [
+        { "answer": "Based on logic and facts", "tag": "logical" },
+        { "answer": "By considering how others feel", "tag": "empathetic" },
+        { "answer": "Through instinct or gut feeling", "tag": "intuitive" },
+        { "answer": "After discussing with others", "tag": "collaborative" }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What energizes you most?",
+      "answers": [
+        { "answer": "Time alone to reflect and think", "tag": "introvert" },
+        { "answer": "Being around people and sharing ideas", "tag": "extrovert" },
+        { "answer": "Creating or building something", "tag": "creative" },
+        { "answer": "Solving real-world problems", "tag": "pragmatic" }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "How do you approach new experiences?",
+      "answers": [
+        { "answer": "Curious and excited", "tag": "explorer" },
+        { "answer": "Cautiously and methodically", "tag": "planner" },
+        { "answer": "Open-minded and flexible", "tag": "adaptable" },
+        { "answer": "With a strategic plan", "tag": "goal-oriented" }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "What motivates you the most?",
+      "answers": [
+        { "answer": "Solving tough challenges", "tag": "problem-solver" },
+        { "answer": "Helping others grow and succeed", "tag": "nurturing" },
+        { "answer": "Expressing myself and being original", "tag": "creative" },
+        { "answer": "Achieving success and recognition", "tag": "ambition" }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "When working on a project, what’s your role?",
+      "answers": [
+        { "answer": "The planner – I organize everything", "tag": "organized" },
+        { "answer": "The creator – I bring ideas to life", "tag": "innovator" },
+        { "answer": "The researcher – I dive deep into the details", "tag": "analytical" },
+        { "answer": "The communicator – I lead or present", "tag": "communicator" }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "What do your friends say you’re best at?",
+      "answers": [
+        { "answer": "Listening and understanding others", "tag": "empathetic" },
+        { "answer": "Explaining complex ideas simply", "tag": "teacher" },
+        { "answer": "Entertaining and inspiring people", "tag": "charismatic" },
+        { "answer": "Staying calm and solving problems", "tag": "resilient" }
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "In a group setting, you prefer to:",
+      "answers": [
+        { "answer": "Lead and coordinate the group", "tag": "leader" },
+        { "answer": "Support others and encourage teamwork", "tag": "helper" },
+        { "answer": "Bring creative ideas to the table", "tag": "idea-generator" },
+        { "answer": "Work quietly behind the scenes", "tag": "independent" }
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "What’s your ideal kind of challenge?",
+      "answers": [
+        { "answer": "A logical puzzle or math problem", "tag": "logical" },
+        { "answer": "Resolving conflict or misunderstandings", "tag": "diplomatic" },
+        { "answer": "Making something unique or beautiful", "tag": "creative" },
+        { "answer": "Helping someone understand themselves better", "tag": "empathetic" }
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "How do you handle stress?",
+      "answers": [
+        { "answer": "I make a checklist or plan", "tag": "structured" },
+        { "answer": "I talk it through with someone", "tag": "relational" },
+        { "answer": "I distract myself through a creative activity", "tag": "expressive" },
+        { "answer": "I go into problem-solving mode", "tag": "focused" }
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "What gives you a sense of fulfillment?",
+      "answers": [
+        { "answer": "Helping others in meaningful ways", "tag": "compassionate" },
+        { "answer": "Achieving a personal or academic goal", "tag": "driven" },
+        { "answer": "Creating or performing something impactful", "tag": "expressive" },
+        { "answer": "Discovering something new or figuring things out", "tag": "inquisitive" }
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "You prefer routines that are:",
+      "answers": [
+        { "answer": "Structured and predictable", "tag": "organized" },
+        { "answer": "Flexible and ever-changing", "tag": "creative" },
+        { "answer": "Goal-based with clear outcomes", "tag": "motivated" },
+        { "answer": "People-centered and supportive", "tag": "empathetic" }
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "If you could pick a superpower, it would be:",
+      "answers": [
+        { "answer": "Solving any problem instantly", "tag": "logical" },
+        { "answer": "Understanding everyone’s emotions", "tag": "empathetic" },
+        { "answer": "Creating anything from imagination", "tag": "creative" },
+        { "answer": "Persuading anyone of your ideas", "tag": "communicator" }
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "How do you like to express yourself?",
+      "answers": [
+        { "answer": "Through visuals, music, or performance", "tag": "expressive" },
+        { "answer": "Through writing and deep conversations", "tag": "reflective" },
+        { "answer": "Through experiments and data", "tag": "scientific" },
+        { "answer": "Through leading and motivating others", "tag": "leader" }
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "What type of tasks drain your energy most?",
+      "answers": [
+        { "answer": "Too much small talk or group work", "tag": "introvert" },
+        { "answer": "Repetitive and rigid routines", "tag": "innovative" },
+        { "answer": "Tasks with no clear goal or purpose", "tag": "strategic" },
+        { "answer": "Solo work with little interaction", "tag": "social" }
+      ]
+    }
+  ]
+}

@@ -1,425 +1,187 @@
 {
-    "questions": [
-      {
-        "question": "When you're faced with a challenge, what's your instinct?",
-        "options": [
-          {
-            "answer": "Analyze it step by step",
-            "tags": ["logic", "problem-solving"]
-          },
-          {
-            "answer": "Brainstorm creative solutions",
-            "tags": ["creative", "innovation"]
-          },
-          {
-            "answer": "Ask others for input",
-            "tags": ["social", "communication"]
-          },
-          {
-            "answer": "Take immediate action",
-            "tags": ["leadership", "initiative"]
-          }
-        ]
-      },
-      {
-        "question": "Which activity sounds most appealing on a weekend?",
-        "options": [
-          {
-            "answer": "Reading a book or doing puzzles",
-            "tags": ["logic", "introvert"]
-          },
-          {
-            "answer": "Volunteering or helping out at an event",
-            "tags": ["empathy", "social"]
-          },
-          {
-            "answer": "Designing, drawing, or making something",
-            "tags": ["art", "creative"]
-          },
-          {
-            "answer": "Building something or doing an experiment",
-            "tags": ["engineering", "STEM"]
-          }
-        ]
-      },
-      {
-        "question": "Do you prefer working:",
-        "options": [
-          {
-            "answer": "Alone, in silence",
-            "tags": ["independent", "focused"]
-          },
-          {
-            "answer": "With a small, close-knit team",
-            "tags": ["teamwork", "empathy"]
-          },
-          {
-            "answer": "With a diverse group of people",
-            "tags": ["social", "communication"]
-          },
-          {
-            "answer": "In fast-paced, changing environments",
-            "tags": ["entrepreneurship", "adaptability"]
-          }
-        ]
-      },
-      {
-        "question": "People often describe you as:",
-        "options": [
-          {
-            "answer": "Logical and thoughtful",
-            "tags": ["STEM", "critical thinking"]
-          },
-          {
-            "answer": "Empathetic and caring",
-            "tags": ["health", "education"]
-          },
-          {
-            "answer": "Inventive and original",
-            "tags": ["creative", "innovation"]
-          },
-          {
-            "answer": "Organized and dependable",
-            "tags": ["management", "structure"]
-          }
-        ]
-      },
-      {
-        "question": "What do you value most in a future career?",
-        "options": [
-          {
-            "answer": "Problem-solving and analysis",
-            "tags": ["STEM", "research"]
-          },
-          {
-            "answer": "Creativity and expression",
-            "tags": ["arts", "design"]
-          },
-          {
-            "answer": "Helping others and making an impact",
-            "tags": ["health", "non-profit"]
-          },
-          {
-            "answer": "Stability and clear goals",
-            "tags": ["business", "planning"]
-          }
-        ]
-      },
-      {
-        "question": "Which of these would you enjoy most?",
-        "options": [
-          {
-            "answer": "Solving a mystery or complex problem",
-            "tags": ["logic", "science"]
-          },
-          {
-            "answer": "Directing a short film or writing a script",
-            "tags": ["creative", "media"]
-          },
-          {
-            "answer": "Leading a team project",
-            "tags": ["leadership", "strategy"]
-          },
-          {
-            "answer": "Investigating how the human brain works",
-            "tags": ["psychology", "research"]
-          }
-        ]
-      },
-      {
-        "question": "Pick the school subject you enjoy most:",
-        "options": [
-          {
-            "answer": "Math or Physics",
-            "tags": ["math", "STEM"]
-          },
-          {
-            "answer": "Art or Music",
-            "tags": ["art", "expression"]
-          },
-          {
-            "answer": "History or Social Studies",
-            "tags": ["politics", "humanities"]
-          },
-          {
-            "answer": "Biology or Chemistry",
-            "tags": ["science", "health"]
-          }
-        ]
-      },
-      {
-        "question": "Which club would you most likely join?",
-        "options": [
-          {
-            "answer": "Science or Robotics Club",
-            "tags": ["STEM", "engineering"]
-          },
-          {
-            "answer": "Debate or Model UN",
-            "tags": ["law", "communication"]
-          },
-          {
-            "answer": "Drama or Creative Writing Club",
-            "tags": ["arts", "performance"]
-          },
-          {
-            "answer": "Community Service or Health Club",
-            "tags": ["health", "social"]
-          }
-        ]
-      },
-      {
-        "question": "How do you feel about public speaking?",
-        "options": [
-          {
-            "answer": "I love it—it energizes me",
-            "tags": ["communication", "leadership"]
-          },
-          {
-            "answer": "I’ll do it if I have to",
-            "tags": ["balanced", "adaptable"]
-          },
-          {
-            "answer": "I prefer not to",
-            "tags": ["introvert", "technical"]
-          },
-          {
-            "answer": "Only if I’m very prepared",
-            "tags": ["planner", "researcher"]
-          }
-        ]
-      },
-      {
-        "question": "Which global issue do you care about most?",
-        "options": [
-          {
-            "answer": "Climate change and sustainability",
-            "tags": ["environment", "science"]
-          },
-          {
-            "answer": "Inequality and human rights",
-            "tags": ["human rights", "law"]
-          },
-          {
-            "answer": "Mental health and well-being",
-            "tags": ["psychology", "health"]
-          },
-          {
-            "answer": "Technology and innovation",
-            "tags": ["technology", "STEM"]
-          }
-        ]
-      },
-      {
-        "question": "You learn best when you:",
-        "options": [
-          {
-            "answer": "Watch videos or visual aids",
-            "tags": ["visual", "media"]
-          },
-          {
-            "answer": "Discuss and debate topics",
-            "tags": ["debate", "communication"]
-          },
-          {
-            "answer": "Do hands-on activities",
-            "tags": ["practical", "science"]
-          },
-          {
-            "answer": "Follow structured notes and lectures",
-            "tags": ["academic", "theory"]
-          }
-        ]
-      },
-      {
-        "question": "How do you prefer to approach tasks?",
-        "options": [
-          {
-            "answer": "By creating a clear plan",
-            "tags": ["structure", "management"]
-          },
-          {
-            "answer": "Jump in and adjust as needed",
-            "tags": ["adaptability", "entrepreneurship"]
-          },
-          {
-            "answer": "Collaborate and divide responsibilities",
-            "tags": ["teamwork", "leadership"]
-          },
-          {
-            "answer": "Do it alone and refine carefully",
-            "tags": ["independent", "detail"]
-          }
-        ]
-      },
-      {
-        "question": "If school were more like this, you’d enjoy it more:",
-        "options": [
-          {
-            "answer": "More real-life case studies and projects",
-            "tags": ["practical", "law"]
-          },
-          {
-            "answer": "More creative freedom and flexibility",
-            "tags": ["creative", "media"]
-          },
-          {
-            "answer": "More structure and deadlines",
-            "tags": ["discipline", "academia"]
-          },
-          {
-            "answer": "More time to focus deeply on topics",
-            "tags": ["research", "psychology"]
-          }
-        ]
-      },
-      {
-        "question": "Do you enjoy competition?",
-        "options": [
-          {
-            "answer": "Yes—it motivates me",
-            "tags": ["business", "STEM"]
-          },
-          {
-            "answer": "Not really—I prefer collaboration",
-            "tags": ["education", "teamwork"]
-          },
-          {
-            "answer": "Only when it’s friendly",
-            "tags": ["creative", "communication"]
-          },
-          {
-            "answer": "Depends on the subject",
-            "tags": ["adaptable", "multi-interest"]
-          }
-        ]
-      },
-      {
-        "question": "Where do you see yourself in 10 years?",
-        "options": [
-          {
-            "answer": "Running a business or leading a team",
-            "tags": ["entrepreneurship", "leadership"]
-          },
-          {
-            "answer": "Working in a lab or hospital",
-            "tags": ["health", "research"]
-          },
-          {
-            "answer": "Traveling the world as a journalist or creator",
-            "tags": ["media", "writing"]
-          },
-          {
-            "answer": "Working at a tech company or inventing something",
-            "tags": ["technology", "innovation"]
-          }
-        ]
-      },
-      {
-        "question": "If you could shadow a professional for a day, you'd pick:",
-        "options": [
-          {
-            "answer": "A lawyer or diplomat",
-            "tags": ["law", "politics"]
-          },
-          {
-            "answer": "A doctor or therapist",
-            "tags": ["health", "psychology"]
-          },
-          {
-            "answer": "An engineer or software developer",
-            "tags": ["engineering", "technology"]
-          },
-          {
-            "answer": "An artist, director, or designer",
-            "tags": ["arts", "visual"]
-          }
-        ]
-      },
-      {
-        "question": "What kind of university environment appeals to you?",
-        "options": [
-          {
-            "answer": "Large, diverse, and vibrant campus",
-            "tags": ["social", "global"]
-          },
-          {
-            "answer": "Small, close-knit, community-focused",
-            "tags": ["supportive", "education"]
-          },
-          {
-            "answer": "Prestigious, competitive, high-achieving",
-            "tags": ["ambition", "STEM"]
-          },
-          {
-            "answer": "Innovative, interdisciplinary, and flexible",
-            "tags": ["creative", "multi-field"]
-          }
-        ]
-      },
-      {
-        "question": "Do you want a career that is:",
-        "options": [
-          {
-            "answer": "High-paying and competitive",
-            "tags": ["finance", "prestige"]
-          },
-          {
-            "answer": "Purpose-driven and meaningful",
-            "tags": ["impact", "education"]
-          },
-          {
-            "answer": "Flexible and adventurous",
-            "tags": ["freedom", "media"]
-          },
-          {
-            "answer": "Secure and consistent",
-            "tags": ["stability", "structure"]
-          }
-        ]
-      },
-      {
-        "question": "How open are you to studying abroad?",
-        "options": [
-          {
-            "answer": "Very open—I want global exposure",
-            "tags": ["travel", "international"]
-          },
-          {
-            "answer": "Maybe, if it aligns with my goals",
-            "tags": ["goal-oriented", "academic"]
-          },
-          {
-            "answer": "Prefer staying close to home",
-            "tags": ["local", "community"]
-          },
-          {
-            "answer": "Depends on the scholarship options",
-            "tags": ["finance", "resourceful"]
-          }
-        ]
-      },
-      {
-        "question": "If you had to choose one motto, it would be:",
-        "options": [
-          {
-            "answer": "\"Think big. Act bigger.\"",
-            "tags": ["leadership", "entrepreneurship"]
-          },
-          {
-            "answer": "\"Create with purpose.\"",
-            "tags": ["creative", "expression"]
-          },
-          {
-            "answer": "\"Make change happen.\"",
-            "tags": ["activism", "impact"]
-          },
-          {
-            "answer": "\"Build the future.\"",
-            "tags": ["engineering", "innovation"]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "id": "personality-career-match",
+  "name": "Personality & Career Match Quiz",
+  "description": "A personality and interest-based quiz designed to help high school students explore their strengths and preferences, guiding them toward suitable university fields and careers.",
+  "questions": [
+    {
+      "question": "When you're faced with a challenge, what's your instinct?",
+      "options": [
+        { "answer": "Analyze it step by step", "tag": "logic" },
+        { "answer": "Brainstorm creative solutions", "tag": "creative" },
+        { "answer": "Ask others for input", "tag": "social" },
+        { "answer": "Take immediate action", "tag": "leadership" }
+      ]
+    },
+    {
+      "question": "Which activity sounds most appealing on a weekend?",
+      "options": [
+        { "answer": "Reading a book or doing puzzles", "tag": "logic" },
+        { "answer": "Volunteering or helping out at an event", "tag": "empathy" },
+        { "answer": "Designing, drawing, or making something", "tag": "art" },
+        { "answer": "Building something or doing an experiment", "tag": "engineering" }
+      ]
+    },
+    {
+      "question": "Do you prefer working:",
+      "options": [
+        { "answer": "Alone, in silence", "tag": "independent" },
+        { "answer": "With a small, close-knit team", "tag": "teamwork" },
+        { "answer": "With a diverse group of people", "tag": "social" },
+        { "answer": "In fast-paced, changing environments", "tag": "entrepreneurship" }
+      ]
+    },
+    {
+      "question": "People often describe you as:",
+      "options": [
+        { "answer": "Logical and thoughtful", "tag": "STEM" },
+        { "answer": "Empathetic and caring", "tag": "health" },
+        { "answer": "Inventive and original", "tag": "creative" },
+        { "answer": "Organized and dependable", "tag": "management" }
+      ]
+    },
+    {
+      "question": "What do you value most in a future career?",
+      "options": [
+        { "answer": "Problem-solving and analysis", "tag": "STEM" },
+        { "answer": "Creativity and expression", "tag": "arts" },
+        { "answer": "Helping others and making an impact", "tag": "health" },
+        { "answer": "Stability and clear goals", "tag": "business" }
+      ]
+    },
+    {
+      "question": "Which of these would you enjoy most?",
+      "options": [
+        { "answer": "Solving a mystery or complex problem", "tag": "logic" },
+        { "answer": "Directing a short film or writing a script", "tag": "creative" },
+        { "answer": "Leading a team project", "tag": "leadership" },
+        { "answer": "Investigating how the human brain works", "tag": "psychology" }
+      ]
+    },
+    {
+      "question": "Pick the school subject you enjoy most:",
+      "options": [
+        { "answer": "Math or Physics", "tag": "math" },
+        { "answer": "Art or Music", "tag": "art" },
+        { "answer": "History or Social Studies", "tag": "politics" },
+        { "answer": "Biology or Chemistry", "tag": "science" }
+      ]
+    },
+    {
+      "question": "Which club would you most likely join?",
+      "options": [
+        { "answer": "Science or Robotics Club", "tag": "STEM" },
+        { "answer": "Debate or Model UN", "tag": "law" },
+        { "answer": "Drama or Creative Writing Club", "tag": "arts" },
+        { "answer": "Community Service or Health Club", "tag": "health" }
+      ]
+    },
+    {
+      "question": "How do you feel about public speaking?",
+      "options": [
+        { "answer": "I love it—it energizes me", "tag": "communication" },
+        { "answer": "I’ll do it if I have to", "tag": "balanced" },
+        { "answer": "I prefer not to", "tag": "introvert" },
+        { "answer": "Only if I’m very prepared", "tag": "planner" }
+      ]
+    },
+    {
+      "question": "Which global issue do you care about most?",
+      "options": [
+        { "answer": "Climate change and sustainability", "tag": "environment" },
+        { "answer": "Inequality and human rights", "tag": "human rights" },
+        { "answer": "Mental health and well-being", "tag": "psychology" },
+        { "answer": "Technology and innovation", "tag": "technology" }
+      ]
+    },
+    {
+      "question": "You learn best when you:",
+      "options": [
+        { "answer": "Watch videos or visual aids", "tag": "visual" },
+        { "answer": "Discuss and debate topics", "tag": "debate" },
+        { "answer": "Do hands-on activities", "tag": "practical" },
+        { "answer": "Follow structured notes and lectures", "tag": "academic" }
+      ]
+    },
+    {
+      "question": "How do you prefer to approach tasks?",
+      "options": [
+        { "answer": "By creating a clear plan", "tag": "structure" },
+        { "answer": "Jump in and adjust as needed", "tag": "adaptability" },
+        { "answer": "Collaborate and divide responsibilities", "tag": "teamwork" },
+        { "answer": "Do it alone and refine carefully", "tag": "independent" }
+      ]
+    },
+    {
+      "question": "If school were more like this, you’d enjoy it more:",
+      "options": [
+        { "answer": "More real-life case studies and projects", "tag": "practical" },
+        { "answer": "More creative freedom and flexibility", "tag": "creative" },
+        { "answer": "More structure and deadlines", "tag": "discipline" },
+        { "answer": "More time to focus deeply on topics", "tag": "research" }
+      ]
+    },
+    {
+      "question": "Do you enjoy competition?",
+      "options": [
+        { "answer": "Yes—it motivates me", "tag": "business" },
+        { "answer": "Not really—I prefer collaboration", "tag": "education" },
+        { "answer": "Only when it’s friendly", "tag": "creative" },
+        { "answer": "Depends on the subject", "tag": "adaptable" }
+      ]
+    },
+    {
+      "question": "Where do you see yourself in 10 years?",
+      "options": [
+        { "answer": "Running a business or leading a team", "tag": "entrepreneurship" },
+        { "answer": "Working in a lab or hospital", "tag": "health" },
+        { "answer": "Traveling the world as a journalist or creator", "tag": "media" },
+        { "answer": "Working at a tech company or inventing something", "tag": "technology" }
+      ]
+    },
+    {
+      "question": "If you could shadow a professional for a day, you'd pick:",
+      "options": [
+        { "answer": "A lawyer or diplomat", "tag": "law" },
+        { "answer": "A doctor or therapist", "tag": "health" },
+        { "answer": "An engineer or software developer", "tag": "engineering" },
+        { "answer": "An artist, director, or designer", "tag": "arts" }
+      ]
+    },
+    {
+      "question": "What kind of university environment appeals to you?",
+      "options": [
+        { "answer": "Large, diverse, and vibrant campus", "tag": "social" },
+        { "answer": "Small, close-knit, community-focused", "tag": "supportive" },
+        { "answer": "Prestigious, competitive, high-achieving", "tag": "ambition" },
+        { "answer": "Innovative, interdisciplinary, and flexible", "tag": "creative" }
+      ]
+    },
+    {
+      "question": "Do you want a career that is:",
+      "options": [
+        { "answer": "High-paying and competitive", "tag": "finance" },
+        { "answer": "Purpose-driven and meaningful", "tag": "impact" },
+        { "answer": "Flexible and adventurous", "tag": "freedom" },
+        { "answer": "Secure and consistent", "tag": "stability" }
+      ]
+    },
+    {
+      "question": "How open are you to studying abroad?",
+      "options": [
+        { "answer": "Very open—I want global exposure", "tag": "travel" },
+        { "answer": "Maybe, if it aligns with my goals", "tag": "goal-oriented" },
+        { "answer": "Prefer staying close to home", "tag": "local" },
+        { "answer": "Depends on the scholarship options", "tag": "finance" }
+      ]
+    },
+    {
+      "question": "If you had to choose one motto, it would be:",
+      "options": [
+        { "answer": "\"Think big. Act bigger.\"", "tag": "leadership" },
+        { "answer": "\"Create with purpose.\"", "tag": "creative" },
+        { "answer": "\"Make change happen.\"", "tag": "activism" },
+        { "answer": "\"Build the future.\"", "tag": "engineering" }
+      ]
+    }
+  ]
+}

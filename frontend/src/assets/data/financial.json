@@ -1,239 +1,132 @@
 {
-    "questions": [
-      {
-        "question": "In which region of Albania would you prefer to study?",
-        "options": [
-          {
-            "answer": "Tirana or Durres",
-            "tag": "urban"
-          },
-          {
-            "answer": "Southern Albania (e.g., Vlora, Gjirokastra)",
-            "tag": "south"
-          },
-          {
-            "answer": "Northern Albania (e.g., Shkodra, Kukës)",
-            "tag": "north"
-          },
-          {
-            "answer": "No preference",
-            "tag": "flexible-location"
-          }
-        ]
-      },
-      {
-        "question": "How important is low tuition or free education to you?",
-        "options": [
-          {
-            "answer": "Very important – I need free or very low-cost education",
-            "tag": "low-budget"
-          },
-          {
-            "answer": "Somewhat important – I can afford some fees",
-            "tag": "medium-budget"
-          },
-          {
-            "answer": "Not important – I can afford private tuition",
-            "tag": "high-budget"
-          }
-        ]
-      },
-      {
-        "question": "Are you open to moving away from home for university?",
-        "options": [
-          {
-            "answer": "Yes, anywhere in Albania",
-            "tag": "mobile"
-          },
-          {
-            "answer": "Only within commuting distance",
-            "tag": "commuter"
-          },
-          {
-            "answer": "Only in my city or very close",
-            "tag": "home-based"
-          }
-        ]
-      },
-      {
-        "question": "How do you plan to pay for your studies?",
-        "options": [
-          {
-            "answer": "I’ll need scholarships or financial aid",
-            "tag": "needs-scholarship"
-          },
-          {
-            "answer": "My family will cover the costs",
-            "tag": "family-funded"
-          },
-          {
-            "answer": "I plan to work part-time",
-            "tag": "self-funded"
-          }
-        ]
-      },
-      {
-        "question": "Do you prefer studying in Albanian or English?",
-        "options": [
-          {
-            "answer": "Albanian",
-            "tag": "albanian-track"
-          },
-          {
-            "answer": "English",
-            "tag": "english-track"
-          },
-          {
-            "answer": "Either works for me",
-            "tag": "bilingual"
-          }
-        ]
-      },
-      {
-        "question": "What type of student lifestyle are you looking for?",
-        "options": [
-          {
-            "answer": "Active campus life with clubs and events",
-            "tag": "social"
-          },
-          {
-            "answer": "Calm and focused learning environment",
-            "tag": "focused"
-          },
-          {
-            "answer": "Flexible – I want time for work or family",
-            "tag": "flexible-lifestyle"
-          }
-        ]
-      },
-      {
-        "question": "How important is job placement after graduation?",
-        "options": [
-          {
-            "answer": "Very important – I want internships and job support",
-            "tag": "career-focused"
-          },
-          {
-            "answer": "Moderately important – I want to enjoy my field too",
-            "tag": "balanced-goals"
-          },
-          {
-            "answer": "Not important – I’ll create my own path",
-            "tag": "independent-path"
-          }
-        ]
-      },
-      {
-        "question": "How involved are your parents in your university decision?",
-        "options": [
-          {
-            "answer": "Very involved – they will influence my decision",
-            "tag": "family-influence"
-          },
-          {
-            "answer": "Somewhat involved – they’ll support my choice",
-            "tag": "shared-decision"
-          },
-          {
-            "answer": "Not involved – it’s fully my decision",
-            "tag": "self-decision"
-          }
-        ]
-      },
-      {
-        "question": "Would you consider studying at a private university in Albania?",
-        "options": [
-          {
-            "answer": "Yes – if the program is right",
-            "tag": "open-private"
-          },
-          {
-            "answer": "No – only public universities",
-            "tag": "public-only"
-          },
-          {
-            "answer": "Not sure – depends on scholarships",
-            "tag": "conditional-choice"
-          }
-        ]
-      },
-      {
-        "question": "Do you want to live in a dorm, rent an apartment, or stay at home?",
-        "options": [
-          {
-            "answer": "Stay at home",
-            "tag": "stay-home"
-          },
-          {
-            "answer": "Live in a dorm or student residence",
-            "tag": "dorm-life"
-          },
-          {
-            "answer": "Rent alone or with friends",
-            "tag": "independent-living"
-          }
-        ]
-      },
-      {
-        "question": "Do you want a program that offers internships during your studies?",
-        "options": [
-          {
-            "answer": "Yes – experience is a priority",
-            "tag": "wants-internships"
-          },
-          {
-            "answer": "Not necessarily – I prefer academic theory",
-            "tag": "theory-focused"
-          }
-        ]
-      },
-      {
-        "question": "Are you planning to study for a Master’s degree after your Bachelor's?",
-        "options": [
-          {
-            "answer": "Yes, definitely",
-            "tag": "academic-track"
-          },
-          {
-            "answer": "Maybe – depends on the job market",
-            "tag": "open-track"
-          },
-          {
-            "answer": "No – I want to work immediately",
-            "tag": "job-track"
-          }
-        ]
-      },
-      {
-        "question": "What kind of program schedule do you prefer?",
-        "options": [
-          {
-            "answer": "Traditional full-time (morning/afternoon classes)",
-            "tag": "full-time"
-          },
-          {
-            "answer": "Flexible or part-time (evening or weekend options)",
-            "tag": "part-time"
-          },
-          {
-            "answer": "Online or hybrid options",
-            "tag": "remote"
-          }
-        ]
-      },
-      {
-        "question": "Do you prefer universities known for a specific field?",
-        "options": [
-          {
-            "answer": "Yes – I want the best school for my chosen field",
-            "tag": "field-expert"
-          },
-          {
-            "answer": "No – I want a balanced university with many options",
-            "tag": "multi-field"
-          }
-        ]
-      }
-    ]
-  }
-  
+  "id": "financial-fit",
+  "name": "Financial Fit Quiz",
+  "description": "Discover what type of universities best match your financial situation, lifestyle, and preferences.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "In which region of Albania would you prefer to study?",
+      "options": [
+        { "answer": "Tirana or Durres", "tag": "urban" },
+        { "answer": "Southern Albania (e.g., Vlora, Gjirokastra)", "tag": "south" },
+        { "answer": "Northern Albania (e.g., Shkodra, Kukës)", "tag": "north" },
+        { "answer": "No preference", "tag": "flexible-location" }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "How important is low tuition or free education to you?",
+      "options": [
+        { "answer": "Very important – I need free or very low-cost education", "tag": "low-budget" },
+        { "answer": "Somewhat important – I can afford some fees", "tag": "medium-budget" },
+        { "answer": "Not important – I can afford private tuition", "tag": "high-budget" }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Are you open to moving away from home for university?",
+      "options": [
+        { "answer": "Yes, anywhere in Albania", "tag": "mobile" },
+        { "answer": "Only within commuting distance", "tag": "commuter" },
+        { "answer": "Only in my city or very close", "tag": "home-based" }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "How do you plan to pay for your studies?",
+      "options": [
+        { "answer": "I’ll need scholarships or financial aid", "tag": "needs-scholarship" },
+        { "answer": "My family will cover the costs", "tag": "family-funded" },
+        { "answer": "I plan to work part-time", "tag": "self-funded" }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Do you prefer studying in Albanian or English?",
+      "options": [
+        { "answer": "Albanian", "tag": "albanian-track" },
+        { "answer": "English", "tag": "english-track" },
+        { "answer": "Either works for me", "tag": "bilingual" }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "What type of student lifestyle are you looking for?",
+      "options": [
+        { "answer": "Active campus life with clubs and events", "tag": "social" },
+        { "answer": "Calm and focused learning environment", "tag": "focused" },
+        { "answer": "Flexible – I want time for work or family", "tag": "flexible-lifestyle" }
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "How important is job placement after graduation?",
+      "options": [
+        { "answer": "Very important – I want internships and job support", "tag": "career-focused" },
+        { "answer": "Moderately important – I want to enjoy my field too", "tag": "balanced-goals" },
+        { "answer": "Not important – I’ll create my own path", "tag": "independent-path" }
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "How involved are your parents in your university decision?",
+      "options": [
+        { "answer": "Very involved – they will influence my decision", "tag": "family-influence" },
+        { "answer": "Somewhat involved – they’ll support my choice", "tag": "shared-decision" },
+        { "answer": "Not involved – it’s fully my decision", "tag": "self-decision" }
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "Would you consider studying at a private university in Albania?",
+      "options": [
+        { "answer": "Yes – if the program is right", "tag": "open-private" },
+        { "answer": "No – only public universities", "tag": "public-only" },
+        { "answer": "Not sure – depends on scholarships", "tag": "conditional-choice" }
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "Do you want to live in a dorm, rent an apartment, or stay at home?",
+      "options": [
+        { "answer": "Stay at home", "tag": "stay-home" },
+        { "answer": "Live in a dorm or student residence", "tag": "dorm-life" },
+        { "answer": "Rent alone or with friends", "tag": "independent-living" }
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "Do you want a program that offers internships during your studies?",
+      "options": [
+        { "answer": "Yes – experience is a priority", "tag": "wants-internships" },
+        { "answer": "Not necessarily – I prefer academic theory", "tag": "theory-focused" }
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "Are you planning to study for a Master’s degree after your Bachelor's?",
+      "options": [
+        { "answer": "Yes, definitely", "tag": "academic-track" },
+        { "answer": "Maybe – depends on the job market", "tag": "open-track" },
+        { "answer": "No – I want to work immediately", "tag": "job-track" }
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "What kind of program schedule do you prefer?",
+      "options": [
+        { "answer": "Traditional full-time (morning/afternoon classes)", "tag": "full-time" },
+        { "answer": "Flexible or part-time (evening or weekend options)", "tag": "part-time" },
+        { "answer": "Online or hybrid options", "tag": "remote" }
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "Do you prefer universities known for a specific field?",
+      "options": [
+        { "answer": "Yes – I want the best school for my chosen field", "tag": "field-expert" },
+        { "answer": "No – I want a balanced university with many options", "tag": "multi-field" }
+      ]
+    }
+  ]
+}

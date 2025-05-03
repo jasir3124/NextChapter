@@ -1,117 +1,212 @@
-[
-  {
-    "id": 1,
-    "name": "Albanian University",
-    "filename": "albanian_university.png",
-    "founded": "10 April 2004"
-  },
-  {
-    "id": 2,
-    "name": "Aldent University",
-    "filename": "Aldent.png",
-    "founded": "27 September 2006"
-  },
-  {
-    "id": 3,
-    "name": "Epoka University",
-    "filename": "epoka.png",
-    "founded": "12 March 2008"
-  },
-  {
-    "id": 4,
-    "name": "Logos University College",
-    "filename": "logos.png",
-    "founded": "6 April 2011"
-  },
-  {
-    "id": 5,
-    "name": "Our Lady of Good Counsel University",
-    "filename": "our_lady_of_good_console.png",
-    "founded": "27 August 2004"
-  },
-  { 
-    "id": 6,
-    "name": "Ivodent Academy",
-    "filename": "Ivodent_logo_ai.png",
-    "founded": "19 February 2009"
-  },
-  {
-    "id": 7,
-    "name": "KUQ (Qiriazi University College)",
-    "filename": "KUQ.png",
-    "founded": "10 May 2006"
-  },
-  {
-    "id": 8,
-    "name": "Kolegji Profesional i Tiranës (Professional College of Tirana)",
-    "filename": "upt.png",
-    "founded": "26 August 2015"
-  },
-  {
-    "id": 9,
-    "name": "Nehemiah Gateway University",
-    "filename": "NGA.png",
-    "founded": "4 June 2008"
-  },
-  {
-    "id": 10,
-    "name": "Luarasi University",
-    "filename": "luarasi.png",
-    "founded": ""
-  },
-  {
-    "id": 11,
-    "name": "Polis University",
-    "filename": "polis-university.png",
-    "founded": "11 October 2006"
-  },
-  {
-    "id": 12,
-    "name": "Tirana Business University College",
-    "filename": "tbu.png",
-    "founded": "6 October 2010"
-  },
-  {
-    "id": 13,
-    "name": "European University of Tirana",
-    "filename": "uet.png",
-    "founded": "20 September 2006"
-  },
-  {
-    "id": 14,
-    "name": "Marin Barleti University",
-    "filename": "umb-logo.png",
-    "founded": "12 August 2005"
-  },
-  {
-    "id": 15,
-    "name": "University of Tirana",
-    "filename": "university-of-tirana.png",
-    "founded": ""
-  },
-  {
-    "id": 16,
-    "name": "Mediterranean University of Albania",
-    "filename": "univerziteti-mesdhetar.png",
-    "founded": "19 February 2009"
-  },
-  {
-    "id": 17,
-    "name": "University of New York, Tirana",
-    "filename": "unyt.png",
-    "founded": "15 August 2002"
-  },
-  {
-    "id": 18,
-    "name": "Polytechnic University of Tirana (assumed from 'upt')",
-    "filename": "upt.png",
-    "founded": ""
-  },
-  {
-    "id": 19,
-    "name": "Wisdom University",
-    "filename": "wisdom.png",
-    "founded": "27 September 2006"
-  }
- 
-]
+  [
+    {
+      "id": 1,
+      "name": "Tirana Business University College",
+      "filename": "tbu.png",
+      "founded": "6 October 2010",
+      "address": "Rruga Rezervat e Shtetit, Lundër, Tirana, Albania",
+      "phone": "+355 69 706 6966",
+      "email": "info@tbu.edu.al",
+      "website": "https://tbu.edu.al/en/home-en/",
+      "description": "Tirana Business University College (TBU), established in 2010, offers programs in Business Administration and Information Technology. As part of the BALFIN Group since 2014, TBU provides students with direct employment opportunities through partnerships with over 150 businesses. Accredited in Albania and recognized in the EU, TBU emphasizes practical training, entrepreneurship, and international collaboration, including participation in the Erasmus+ program."
+    },
+    {
+      "id": 2,
+      "name": "Aldent University",
+      "filename": "Aldent.png",
+      "founded": "27 September 2006",
+      "address": "Rruga e Dibrës, Nr. 235, Tirana 1000, Albania",
+      "phone": "+355 (69) 318 1835",
+      "email": "info@ual.edu.al",
+      "website": "https://ual.edu.al/ual.edu.al/home-3/",
+      "description": "Aldent University specializes in dental education, offering programs that combine theoretical knowledge with practical training. Since its establishment in 2006, the university has focused on producing skilled dental professionals equipped to meet the demands of modern dentistry."
+    },
+    {
+      "id": 3,
+      "name": "Epoka University",
+      "filename": "epoka.png",
+      "founded": "12 March 2008",
+      "address": "Rr. Tirane-Rinas, Km. 12, 1032 Vore, Tirana, Albania",
+      "phone": "+355 4 2232 086",
+      "email": "info@epoka.edu.al",
+      "website": "https://epoka.edu.al/",
+      "description": "Epoka University is a private institution offering programs in engineering, economics, and architecture. Founded in 2008, it emphasizes research, innovation, and international collaboration, aiming to prepare students for global challenges."
+    },
+    {
+      "id": 4,
+      "name": "Logos University College",
+      "filename": "logos.png",
+      "founded": "6 April 2011",
+      "address": "Tirana, Albania",
+      "phone": "+355 69 303 0277",
+      "email": "info@kulogos.edu.al",
+      "website": "https://www.kulogos.edu.al/en/contact.html",
+      "description": "Logos University College offers a range of academic programs with a focus on theology, humanities, and social sciences. Established in 2011, the institution is dedicated to fostering critical thinking and ethical values among its students."
+    },
+    {
+      "id": 5,
+      "name": "Our Lady of Good Counsel University",
+      "filename": "our_lady_of_good_console.png",
+      "founded": "27 August 2004",
+      "address": "Rr. Dritan Hoxha, Tirana, Albania",
+      "phone": "+355 4 2223 906",
+      "email": "info@unizkm.al",
+      "website": "https://unizkm.al/en",
+      "description": "Our Lady of Good Counsel University is a private Catholic institution offering programs in medicine, engineering, and social sciences. Since its inception in 2004, the university has been committed to academic excellence and moral development."
+    },
+    {
+      "id": 6,
+      "name": "Ivodent Academy",
+      "filename": "Ivodent_logo_ai.png",
+      "founded": "19 February 2009",
+      "address": "Rruga e Dibrës, Tirana, Albania",
+      "phone": "+355 (4) 225 9425",
+      "email": "info@ivodent.edu.al",
+      "website": "https://ivodent.edu.al/",
+      "description": "Ivodent Academy is a specialized institution focusing on dental technology education. Established in 2009, it offers accredited programs in analog and digital dental techniques, providing students with hands-on experience and international training opportunities."
+    },
+    {
+      "id": 7,
+      "name": "KUQ (Qiriazi University College)",
+      "filename": "KUQ.png",
+      "founded": "10 May 2006",
+      "address": "Rruga Taulantet, Kodër-Kamëz, Tirana 1029, Albania",
+      "phone": "+355 69 544 5343",
+      "email": "info@kuq.edu.al",
+      "website": "https://qiriazi.edu.al/en/contact-us/",
+      "description": "Qiriazi University College offers programs in education, economics, and technology. Since 2006, it has aimed to provide quality education that aligns with the evolving needs of the labor market."
+    },
+    {
+      "id": 8,
+      "name": "Kolegji Profesional i Tiranës (Professional College of Tirana)",
+      "filename": "upt.png",
+      "founded": "26 August 2015",
+      "address": "Tirana, Albania",
+      "phone": "N/A",
+      "email": "N/A",
+      "website": "www.kolegjiprofesional.edu.al",
+      "description": "The Professional College of Tirana focuses on vocational and technical education, offering programs designed to equip students with practical skills for immediate employment in various industries."
+    },
+    {
+      "id": 9,
+      "name": "Nehemiah Gateway University",
+      "filename": "NGA.png",
+      "founded": "4 June 2008",
+      "address": "Rr. Nehemia 7304, Buçimas, Pogradec, Albania",
+      "phone": "+355 83600402",
+      "email": "info@ng-university.org",
+      "website": "https://www.ng-university.org/en",
+      "description": "Nehemiah Gateway University, established in 2008 in Pogradec, offers bachelor's and master's programs in economy, business, and education leadership. Accredited in Albania, Germany, and the U.S., the university provides international students with full scholarships, including room, board, and travel expenses. Instruction is in English, delivered through seminar formats by faculty from North America and Europe, integrating theoretical learning with practical experience."
+    },
+    {
+      "id": 10,
+      "name": "Luarasi University",
+      "filename": "luarasi.png",
+      "founded": "N/A",
+      "address": "Bulevardi Bajram Curri, European Trade Center, 5th Floor, Tirana, Albania",
+      "phone": "+355 68 80 30 950",
+      "email": "info@luarasi-univ.edu.al",
+      "website": "https://luarasi-univ.edu.al/contact/",
+      "description": "Luarasi University offers programs in law, economics, and information technology. The institution is dedicated to fostering academic excellence and preparing students for professional success in their respective fields."
+    },
+    {
+      "id": 11,
+      "name": "Polis University",
+      "filename": "polis-university.png",
+      "founded": "11 October 2006",
+      "address": "St. Bylis 12, Highway Tiranë-Durrës, Km 5, Kashar, Tirana, Albania",
+      "phone": "+355 4 240 7420",
+      "email": "contact@universitetipolis.edu.al",
+      "website": "https://universitetipolis.edu.al/en/contacts-and-useful-links/",
+      "description": "Polis University specializes in architecture, urban planning, and design. Since its establishment in 2006, it has emphasized innovation, research, and practical training to prepare students for careers in creative industries."
+    },
+    {
+      "id": 12,
+      "name": "Albanian University",
+      "filename": "albanian_university.png",
+      "founded": "10 April 2004",
+      "address": "Bulevardi Zogu I, Tirana, Albania",
+      "phone": "+355 42 400530",
+      "email": "karriera@albanianuniversity.edu.al",
+      "website": "https://albanianuniversity.edu.al/en/contacts/",
+      "description": "Albanian University is a private higher education institution located in Tirana, Albania. Established in 2004, it offers a range of undergraduate and postgraduate programs across various fields. The university is committed to providing quality education and fostering research and innovation."
+    },
+    {
+      "id": 13,
+      "name": "European University of Tirana",
+      "filename": "uet.png",
+      "founded": "20 September 2006",
+      "address": "Xhura Complex, St. Xhanfize Keko, Tirana, Albania",
+      "phone": "+355 68 903 7765",
+      "email": "info@uet.edu.al",
+      "website": "https://uet.edu.al/en/contact/",
+      "description": "The European University of Tirana offers a range of programs in law, economics, and social sciences. Since 2006, it has focused on integrating European academic standards and promoting research and innovation."
+    },
+    {
+      "id": 14,
+      "name": "Marin Barleti University",
+      "filename": "umb-logo.png",
+      "founded": "12 August 2005",
+      "address": "Rr. Frang Bardhi, Selitë, Tirana, Albania",
+      "phone": "+355 69 206 7247",
+      "email": "info@umb.edu.al",
+      "website": "https://umb.edu.al/en/",
+      "description": "Marin Barleti University, established in 2005, offers programs across various disciplines, including foreign languages and applied mathematics. The university emphasizes applied research, innovation, and entrepreneurship, aiming to prepare students for the modern labor market."
+    },
+    {
+      "id": 15,
+      "name": "University of Tirana",
+      "filename": "university-of-tirana.png",
+      "founded": "1957",
+      "address": "Place, “Mother Tereza”, Tirana, Albania",
+      "phone": "+355 4 2232 254",
+      "email": "info@unitir.edu.al",
+      "website": "https://unitir.edu.al/",
+      "description": "The University of Tirana is the largest and one of the oldest public universities in Albania. Founded in 1957, it offers a wide array of programs in the humanities, sciences, economics, law, and social sciences. It is known for its rigorous academic standards and its role in shaping Albania’s intellectual and cultural life."
+    },
+    {
+      "id": 16,
+      "name": "University College Canadian Institute of Technology (CIT)",
+      "filename": "cit.png",
+      "founded": "13 December 2011",
+      "address": "Kompleksi 'UFO', Rr. Sami Frashëri, Tirana, Albania",
+      "phone": "+355 67 40 40 203",
+      "email": "info@cit.edu.al",
+      "website": "https://www.cit.edu.al/",
+      "description": "The Canadian Institute of Technology (CIT) offers internationally-oriented programs in engineering and business, all taught in English. Founded in 2011, CIT is committed to preparing students for global careers by integrating Canadian and European educational practices."
+    },
+    {
+      "id": 17,
+      "name": "Mediterranean University of Albania",
+      "filename": "univerziteti-mesdhetar.png",
+      "founded": "20 November 2006",
+      "address": "Rr. Gjergj Fishta, Nd.70, H.1, Tirana, Albania",
+      "phone": "+355 4 240 7440",
+      "email": "info@umsh.edu.al",
+      "website": "https://www.umsh.edu.al/",
+      "description": "The Mediterranean University of Albania offers programs in political science, law, and social sciences. Since its founding in 2006, the university has focused on modern education with a Mediterranean identity, fostering critical thinking and democratic values."
+    },
+    {
+      "id": 18,
+      "name": "Wisdom University College",
+      "filename": "wisdom.png",
+      "founded": "15 March 2006",
+      "address": "Rruga Medar Shtylla, Kompleksi Usluga, Tirana, Albania",
+      "phone": "+355 69 607 5743",
+      "email": "info@wisdom.edu.al",
+      "website": "https://wisdom.edu.al/",
+      "description": "Wisdom University College offers multidisciplinary programs focused on business, psychology, and legal studies. Established in 2006, the institution promotes analytical thinking, ethical values, and personal development."
+    },
+    {
+      "id": 19,
+      "name": "Bedër University College",
+      "filename": "beder.png",
+      "founded": "2011",
+      "address": "Rr. Jordan Misja, Tirana, Albania",
+      "phone": "+355 4 225 0775",
+      "email": "info@beder.edu.al",
+      "website": "https://beder.edu.al/",
+      "description": "Bedër University College is a private institution that offers programs in humanities, communication sciences, and Islamic studies. Since 2011, it has provided education based on academic excellence, multicultural dialogue, and community service."
+    }
+  ]
+

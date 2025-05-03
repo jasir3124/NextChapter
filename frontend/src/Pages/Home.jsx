@@ -1,14 +1,14 @@
 import React, {useEffect} from 'react'
 import HeroSection from "../Components/Home/HeroSection";
 import Header from '../Components/Header';
-import UnderHero from "../Components/Home/UnderHero";
+import TopQuizes from '../Components/Home/TopQuizes';
 
 const Home = () => {
     return (
         <div>
             <Header />
             <HeroSection />
-            <UnderHero />
+            <TopQuizes />
         </div>
     )
 }

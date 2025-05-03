@@ -2,7 +2,7 @@ import React from "react";
 
 const TopQuizes = () => {
   return (
-    <div className="w-full py-16 px-6">
+    <div className="w-full py-16 px-6 ">
       {/* Top Header */}
       <h2 className="text-6xl font-bold text-darkBrown text-center mb-16">
         Featured Quizes

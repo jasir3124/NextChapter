@@ -1,13 +1,11 @@
-import {
-    BrowserRouter as Router,
-    Routes,
-    Route,
-} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Routes,} from 'react-router-dom';
 
 import Home from './Pages/Home';
 import University from './Pages/University';
 import Campuses from './Pages/Campuses';
 import Quiz from "./Pages/Quiz";
+import About from "./Pages/About";
+import QuizQuestions from "./Components/Quizes/QuizQuestions";
 
 
 function App() {
@@ -15,9 +13,11 @@ function App() {
         <Router>
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path={"/quiz"} element={<Quiz />} />
+                <Route path={"/quiz"} element={<Quiz/>}/>
+                <Route path="/quiz/:id" element={<QuizQuestions />}/>
                 <Route path={"/universities"} element={<University />} />
                 <Route path={"/campus"} element={<Campuses />} />
+                <Route path={"/about"} element={<About/>}/>
             </Routes>
         </Router>
     );

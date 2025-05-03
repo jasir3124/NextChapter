@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import QuizComponent from "../Components/Quizes/QuizComponent";
 import generalQuizData from "../assets/data/general.json";
 import personalQuizData from "../assets/data/personality.json";
@@ -6,6 +6,21 @@ import financialQuizData from "../assets/data/financial.json";
 import Header from "../Components/Header";
 
 const Quiz = () => {
+    function ensureSession() {
+        let sessionId = localStorage.getItem('quizSessionId');
+        if (!sessionId) {
+            sessionId = crypto.randomUUID();
+            localStorage.setItem('quizSessionId', sessionId);
+        }
+        return sessionId;
+    }
+
+// inside your component:
+    useEffect(() => {
+        const sessionId = ensureSession();
+        console.log('Quiz session:', sessionId);
+    }, []);
+
     return (
         <div>
             <Header />  

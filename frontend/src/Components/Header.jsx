@@ -29,6 +29,11 @@
                 </Link>
             </li>
             <li>
+                <Link to="/campus" className="hover:text-primary transition-colors duration-200">
+                Campuses
+                </Link>
+            </li>
+            <li>
                 <Link to="/about" className="hover:text-primary transition-colors duration-200">
                 About
                 </Link>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Albanian University",
+    "filename": "../UniLogos/albanian_university.png",
+    "founded": "10 April 2004"
+  },
+  {
+    "id": 2,
+    "name": "Aldent University",
+    "filename": "../UniLogos/.png",
+    "founded": "27 September 2006"
+  },
+  {
+    "id": 3,
+    "name": "Epoka University",
+    "filename": "../UniLogos/.png",
+    "founded": "12 March 2008"
+  },
+  {
+    "id": 4,
+    "name": "Logos University College",
+    "filename": "../UniLogos/.png",
+    "founded": "6 April 2011"
+  },
+  {
+    "id": 5,
+    "name": "Our Lady of Good Counsel University",
+    "filename": "../UniLogos/.png",
+    "founded": "27 August 2004"
+  },
+  {
+    "id": 6,
+    "name": "Ivodent Academy",
+    "filename": "../UniLogos/.png",
+    "founded": "19 February 2009"
+  },
+  {
+    "id": 7,
+    "name": "KUQ (Qiriazi University College)",
+    "filename": "../UniLogos/.png",
+    "founded": "10 May 2006"
+  },
+  {
+    "id": 8,
+    "name": "Kolegji Profesional i Tiranës (Professional College of Tirana)",
+    "filename": "../UniLogos/.png",
+    "founded": "26 August 2015"
+  },
+  {
+    "id": 9,
+    "name": "Nehemiah Gateway University",
+    "filename": "../UniLogos/.png",
+    "founded": "4 June 2008"
+  },
+  {
+    "id": 10,
+    "name": "Logonav (Unknown, possibly student system)",
+    "filename": "../UniLogos/.png",
+    "founded": ""
+  },
+  {
+    "id": 11,
+    "name": "Polis University",
+    "filename": "../UniLogos/.png",
+    "founded": "11 October 2006"
+  },
+  {
+    "id": 12,
+    "name": "Tirana Business University College",
+    "filename": "../UniLogos/.png",
+    "founded": "6 October 2010"
+  },
+  {
+    "id": 13,
+    "name": "European University of Tirana",
+    "filename": "../UniLogos/.png",
+    "founded": "20 September 2006"
+  },
+  {
+    "id": 14,
+    "name": "Marin Barleti University",
+    "filename": "../UniLogos/.png",
+    "founded": "12 August 2005"
+  },
+  {
+    "id": 15,
+    "name": "University of Tirana",
+    "filename": "../UniLogos/.png",
+    "founded": ""
+  },
+  {
+    "id": 16,
+    "name": "Mediterranean University of Albania",
+    "filename": "../UniLogos/.png",
+    "founded": "19 February 2009"
+  },
+  {
+    "id": 17,
+    "name": "University of New York, Tirana",
+    "filename": "../UniLogos/.png",
+    "founded": "15 August 2002"
+  },
+  {
+    "id": 18,
+    "name": "Polytechnic University of Tirana (assumed from 'upt')",
+    "filename": "../UniLogos/.png",
+    "founded": ""
+  },
+  {
+    "id": 19,
+    "name": "Wisdom University",
+    "filename": "../UniLogos/.png",
+    "founded": "27 September 2006"
+  },
+  {
+    "id": 20,
+    "name": "Luarasi University",
+    "filename": "../UniLogos/.png",
+    "founded": ""
+  }
+]

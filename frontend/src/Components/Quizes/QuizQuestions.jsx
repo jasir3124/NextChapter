@@ -84,9 +84,10 @@ const QuizQuestions = () => {
     };
 
 
-    if (!quiz) {
-        return <div className="p-10 text-red-500 text-xl">Quiz not found</div>;
+    if (!quiz || !quiz.questions || !Array.isArray(quiz.questions)) {
+        return <div className="p-10 text-red-500 text-xl">Quiz not found or invalid format</div>;
     }
+
 
     return (
         <div className="flex h-screen">
@@ -102,7 +103,7 @@ const QuizQuestions = () => {
                     <div key={q.id} className="mb-6">
                         <h3 className="text-4xl font-bold mb-10 mt-20">{q.question}</h3>
                         <ul className="mt-2 grid grid-cols-2 gap-4">
-                            {q.answers.map((ans, i) => {
+                            {q.options.map((ans, i) => {
                                 const isSelected = selectedAnswers[index] === ans.tag;
                                 return (
                                     <li

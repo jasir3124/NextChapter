@@ -1,9 +1,10 @@
 {
-  "id": "personality-career-match",
-  "name": "Personality & Career Match Quiz",
+  "id": "general-interest",
+  "name": "General Test",
   "description": "A personality and interest-based quiz designed to help high school students explore their strengths and preferences, guiding them toward suitable university fields and careers.",
   "questions": [
     {
+      "id": "q1",
       "question": "When you're faced with a challenge, what's your instinct?",
       "options": [
         { "answer": "Analyze it step by step", "tag": "logic" },
@@ -13,6 +14,7 @@
       ]
     },
     {
+      "id": "q2",
       "question": "Which activity sounds most appealing on a weekend?",
       "options": [
         { "answer": "Reading a book or doing puzzles", "tag": "logic" },
@@ -22,6 +24,7 @@
       ]
     },
     {
+      "id": "q3",
       "question": "Do you prefer working:",
       "options": [
         { "answer": "Alone, in silence", "tag": "independent" },
@@ -31,6 +34,7 @@
       ]
     },
     {
+      "id": "q4",
       "question": "People often describe you as:",
       "options": [
         { "answer": "Logical and thoughtful", "tag": "STEM" },
@@ -40,6 +44,7 @@
       ]
     },
     {
+      "id": "q5",
       "question": "What do you value most in a future career?",
       "options": [
         { "answer": "Problem-solving and analysis", "tag": "STEM" },
@@ -49,6 +54,7 @@
       ]
     },
     {
+      "id": "q6",
       "question": "Which of these would you enjoy most?",
       "options": [
         { "answer": "Solving a mystery or complex problem", "tag": "logic" },
@@ -58,6 +64,7 @@
       ]
     },
     {
+      "id": "q7",
       "question": "Pick the school subject you enjoy most:",
       "options": [
         { "answer": "Math or Physics", "tag": "math" },
@@ -67,6 +74,7 @@
       ]
     },
     {
+      "id": "q8",
       "question": "Which club would you most likely join?",
       "options": [
         { "answer": "Science or Robotics Club", "tag": "STEM" },
@@ -76,6 +84,7 @@
       ]
     },
     {
+      "id": "q9",
       "question": "How do you feel about public speaking?",
       "options": [
         { "answer": "I love it—it energizes me", "tag": "communication" },
@@ -85,6 +94,7 @@
       ]
     },
     {
+      "id": "q10",
       "question": "Which global issue do you care about most?",
       "options": [
         { "answer": "Climate change and sustainability", "tag": "environment" },
@@ -94,6 +104,7 @@
       ]
     },
     {
+      "id": "q11",
       "question": "You learn best when you:",
       "options": [
         { "answer": "Watch videos or visual aids", "tag": "visual" },
@@ -103,6 +114,7 @@
       ]
     },
     {
+      "id": "q12",
       "question": "How do you prefer to approach tasks?",
       "options": [
         { "answer": "By creating a clear plan", "tag": "structure" },
@@ -112,6 +124,7 @@
       ]
     },
     {
+      "id": "q13",
       "question": "If school were more like this, you’d enjoy it more:",
       "options": [
         { "answer": "More real-life case studies and projects", "tag": "practical" },
@@ -121,6 +134,7 @@
       ]
     },
     {
+      "id": "q14",
       "question": "Do you enjoy competition?",
       "options": [
         { "answer": "Yes—it motivates me", "tag": "business" },
@@ -130,6 +144,7 @@
       ]
     },
     {
+      "id": "q15",
       "question": "Where do you see yourself in 10 years?",
       "options": [
         { "answer": "Running a business or leading a team", "tag": "entrepreneurship" },
@@ -139,6 +154,7 @@
       ]
     },
     {
+      "id": "q16",
       "question": "If you could shadow a professional for a day, you'd pick:",
       "options": [
         { "answer": "A lawyer or diplomat", "tag": "law" },
@@ -148,6 +164,7 @@
       ]
     },
     {
+      "id": "q17",
       "question": "What kind of university environment appeals to you?",
       "options": [
         { "answer": "Large, diverse, and vibrant campus", "tag": "social" },
@@ -157,6 +174,7 @@
       ]
     },
     {
+      "id": "q18",
       "question": "Do you want a career that is:",
       "options": [
         { "answer": "High-paying and competitive", "tag": "finance" },
@@ -166,6 +184,7 @@
       ]
     },
     {
+      "id": "q19",
       "question": "How open are you to studying abroad?",
       "options": [
         { "answer": "Very open—I want global exposure", "tag": "travel" },
@@ -175,6 +194,7 @@
       ]
     },
     {
+      "id": "q20",
       "question": "If you had to choose one motto, it would be:",
       "options": [
         { "answer": "\"Think big. Act bigger.\"", "tag": "leadership" },

@@ -3,6 +3,7 @@ import HeroSection from "../Components/Home/HeroSection";
 import Header from '../Components/Header';
 import TopQuizes from '../Components/Home/TopQuizes';
 import Footer from '../Components/Home/Footer';
+import QuizTips from '../Components/Home/QuizTips';
 
 const Home = () => {
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <Header />
             <HeroSection />
             <TopQuizes />
+            <QuizTips />
             <Footer />
         </div>
     )

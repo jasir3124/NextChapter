@@ -7,6 +7,7 @@ import {
 import Home from './Pages/Home';
 import Quiz from "./Pages/Quiz";
 
+
 function App() {
     return (
         <Router>

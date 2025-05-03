@@ -5,11 +5,11 @@ const Campuses = () => {
   return (
     <>
       <Header />
-      <div className="p-4 bg-yellow-400 min-h-screen">
-        <h1 className="text-5xl font-bold text-center text-white mt-8 mb-8">Campuses</h1>
+      <div className="p-4 min-h-screen">
+        <h1 className="text-5xl font-bold text-center text-darBrown mt-8 mb-8">Campuses</h1>
         <div className="max-w-7xl mx-auto">
-          <h2 className="text-3xl font-semibold text-white mb-2">Oxford University</h2>
-          <p className="text-lg text-white mb-4">
+          <h2 className="text-3xl font-semibold text-darkBrown mb-2">Oxford University</h2>
+          <p className="text-lg text-darkBrown mb-4">
             Explore Oxford University in immersive 360° Street View.
           </p>
           <div className="w-full h-[700px]">

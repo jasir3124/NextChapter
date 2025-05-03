@@ -5,8 +5,8 @@ import {
 } from 'react-router-dom';
 
 import Home from './Pages/Home';
-import Quiz from "./Pages/Quiz";
 import University from './Pages/University';
+import Quiz from "./Pages/Quiz";
 
 
 function App() {

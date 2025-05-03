@@ -11,8 +11,8 @@ const Header = () => {
       </NavLink>
 
       {/* Navigation */}
-      <nav>
-        <ul className="flex gap-6 text-lg">
+      <nav className="flex-1 flex justify-center">
+        <ul className="flex gap-6 text-xl font-bold">
           {[
             { name: "Home", to: "/" },
             { name: "Quiz", to: "/quiz" },
@@ -25,8 +25,8 @@ const Header = () => {
                 to={item.to}
                 className={({ isActive }) =>
                   isActive
-                    ? "text-yellow-400 transition-colors duration-200"
-                    : "hover:text-primary transition-colors duration-200"
+                    ? "text-yellow-400 transition-colors duration-300"
+                    : "hover:text-primary transition-colors duration-300"
                 }
               >
                 {item.name}
@@ -35,6 +35,9 @@ const Header = () => {
           ))}
         </ul>
       </nav>
+
+      {/* Spacer to balance flex gap */}
+      <div className="w-16 h-16" />
     </header>
   );
 };

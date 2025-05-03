@@ -14,7 +14,7 @@ const UniversityCards = () => {
         {universityList.map((university) => (
           <div
             key={university.id}
-            className={`bg-white rounded-xl shadow-lg p-6 border-gray-100 border-2 flex flex-col items-center cursor-pointer transition-transform duration-300 ${
+            className={`bg-gray-100 rounded-xl shadow-lg p-6 border-gray-300 border-2 flex flex-col items-center cursor-pointer transition-transform duration-300 ${
               selectedCard === university.id ? 'scale-105' : 'scale-100'
             }`}
             onClick={() => handleCardClick(university.id)}

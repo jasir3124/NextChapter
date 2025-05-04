@@ -1,17 +1,19 @@
 import React, {useEffect} from 'react'
 import HeroSection from "../Components/Home/HeroSection";
 import Header from '../Components/Header';
-import TopQuizes from '../Components/Home/TopQuizes';
+import HowItWorks from '../Components/Home/HowItWorks';
 import Footer from '../Components/Home/Footer';
-import QuizTips from '../Components/Home/QuizTips';
+import WhyChooseUs from '../Components/Home/WhyChooseUs';
+import LastSection from "../Components/Home/LastSection";
 
 const Home = () => {
     return (
         <div>
             <Header />
             <HeroSection />
-            <TopQuizes />
-            <QuizTips />
+            <HowItWorks />
+            <WhyChooseUs />
+            <LastSection />
             <Footer />
         </div>
     )

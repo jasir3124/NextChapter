@@ -38,7 +38,6 @@ export default function ResultsPage() {
             <Header />
             <div className="p-10">
                 <h1 className="text-3xl font-bold mb-6">Your Top University Matches</h1>
-                <p className="mb-4">Based on your answers: {userTags.join(', ')}</p>
                 <ul className="space-y-6">
                     {recommendations.map((uni) => (
                         <li key={uni.id} className="border p-6 rounded-lg shadow-sm">

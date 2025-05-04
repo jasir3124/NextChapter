@@ -7,6 +7,7 @@ import Quiz from "./Pages/Quiz";
 import About from "./Pages/About";
 import QuizQuestions from "./Components/Quizes/QuizQuestions";
 import UniversityDetail from './Components/UniDetails';
+import ResultsPage from "./Pages/ResultsPage";
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
                 <Route path="/universities/:id" element={<UniversityDetail />} />
                 <Route path={"/campus"} element={<Campuses />} />
                 <Route path={"/about"} element={<About/>}/>
+                <Route path={"/results"} element={<ResultsPage />}/>
             </Routes>
         </Router>
     );

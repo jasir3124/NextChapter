@@ -2,6 +2,7 @@
     {
       "id": 1,
       "name": "Tirana Business University College",
+      "tags": ["business", "technology", "entrepreneurship", "international"],
       "filename": "tbu.png",
       "founded": "6 October 2010",
       "address": "Rruga Rezervat e Shtetit, Lundër, Tirana, Albania",
@@ -14,6 +15,7 @@
       "id": 2,
       "name": "Aldent University",
       "filename": "Aldent.png",
+      "tags": ["health", "dentistry", "science", "practical"],
       "founded": "27 September 2006",
       "address": "Rruga e Dibrës, Nr. 235, Tirana 1000, Albania",
       "phone": "+355 (69) 318 1835",
@@ -24,6 +26,7 @@
     {
       "id": 3,
       "name": "Epoka University",
+      "tags": ["engineering", "architecture", "economics", "research"],
       "filename": "epoka.png",
       "founded": "12 March 2008",
       "address": "Rr. Tirane-Rinas, Km. 12, 1032 Vore, Tirana, Albania",
@@ -35,6 +38,7 @@
     {
       "id": 4,
       "name": "Logos University College",
+      "tags": ["humanities", "theology", "social sciences", "ethics"],
       "filename": "logos.png",
       "founded": "6 April 2011",
       "address": "Tirana, Albania",
@@ -46,6 +50,7 @@
     {
       "id": 5,
       "name": "Our Lady of Good Counsel University",
+      "tags": ["medicine", "engineering", "social sciences", "catholic"],
       "filename": "our_lady_of_good_console.png",
       "founded": "27 August 2004",
       "address": "Rr. Dritan Hoxha, Tirana, Albania",
@@ -57,6 +62,7 @@
     {
       "id": 6,
       "name": "Ivodent Academy",
+      "tags": ["dental", "technology", "practical", "vocational"],
       "filename": "Ivodent_logo_ai.png",
       "founded": "19 February 2009",
       "address": "Rruga e Dibrës, Tirana, Albania",
@@ -68,6 +74,7 @@
     {
       "id": 7,
       "name": "KUQ (Qiriazi University College)",
+      "tags": ["education", "economics", "technology", "applied"],
       "filename": "KUQ.png",
       "founded": "10 May 2006",
       "address": "Rruga Taulantet, Kodër-Kamëz, Tirana 1029, Albania",
@@ -79,6 +86,7 @@
     {
       "id": 8,
       "name": "Kolegji Profesional i Tiranës (Professional College of Tirana)",
+      "tags": ["vocational", "technical", "practical", "industry"],
       "filename": "upt.png",
       "founded": "26 August 2015",
       "address": "Tirana, Albania",
@@ -90,6 +98,7 @@
     {
       "id": 9,
       "name": "Nehemiah Gateway University",
+      "tags": ["business", "economics", "education", "international"],
       "filename": "NGA.png",
       "founded": "4 June 2008",
       "address": "Rr. Nehemia 7304, Buçimas, Pogradec, Albania",
@@ -101,6 +110,7 @@
     {
       "id": 10,
       "name": "Luarasi University",
+      "tags": ["law", "economics", "IT", "professional"],
       "filename": "luarasi.png",
       "founded": "N/A",
       "address": "Bulevardi Bajram Curri, European Trade Center, 5th Floor, Tirana, Albania",
@@ -112,6 +122,7 @@
     {
       "id": 11,
       "name": "Polis University",
+      "tags": ["architecture", "design", "urban planning", "innovation"],
       "filename": "polis-university.png",
       "founded": "11 October 2006",
       "address": "St. Bylis 12, Highway Tiranë-Durrës, Km 5, Kashar, Tirana, Albania",
@@ -123,6 +134,7 @@
     {
       "id": 12,
       "name": "Albanian University",
+      "tags": ["multidisciplinary", "research", "innovation", "urban"],
       "filename": "albanian_university.png",
       "founded": "10 April 2004",
       "address": "Bulevardi Zogu I, Tirana, Albania",
@@ -134,6 +146,7 @@
     {
       "id": 13,
       "name": "European University of Tirana",
+      "tags": ["law", "social sciences", "economics", "research"],
       "filename": "uet.png",
       "founded": "20 September 2006",
       "address": "Xhura Complex, St. Xhanfize Keko, Tirana, Albania",
@@ -145,6 +158,7 @@
     {
       "id": 14,
       "name": "Marin Barleti University",
+      "tags": ["entrepreneurship", "innovation", "mathematics", "languages"],
       "filename": "umb-logo.png",
       "founded": "12 August 2005",
       "address": "Rr. Frang Bardhi, Selitë, Tirana, Albania",
@@ -156,6 +170,7 @@
     {
       "id": 15,
       "name": "University of Tirana",
+      "tags": ["public", "humanities", "sciences", "social sciences"],
       "filename": "university-of-tirana.png",
       "founded": "1957",
       "address": "Place, “Mother Tereza”, Tirana, Albania",
@@ -167,6 +182,7 @@
     {
       "id": 16,
       "name": "University College Canadian Institute of Technology (CIT)",
+      "tags": ["engineering", "business", "international", "english"],
       "filename": "cit.png",
       "founded": "13 December 2011",
       "address": "Kompleksi 'UFO', Rr. Sami Frashëri, Tirana, Albania",
@@ -178,6 +194,7 @@
     {
       "id": 17,
       "name": "Mediterranean University of Albania",
+      "tags": ["law", "political science", "social sciences", "modern"],
       "filename": "univerziteti-mesdhetar.png",
       "founded": "20 November 2006",
       "address": "Rr. Gjergj Fishta, Nd.70, H.1, Tirana, Albania",
@@ -189,6 +206,7 @@
     {
       "id": 18,
       "name": "Wisdom University College",
+      "tags": ["business", "psychology", "law", "development"],
       "filename": "wisdom.png",
       "founded": "15 March 2006",
       "address": "Rruga Medar Shtylla, Kompleksi Usluga, Tirana, Albania",
@@ -200,6 +218,7 @@
     {
       "id": 19,
       "name": "Bedër University College",
+      "tags": ["communication", "humanities", "islamic studies", "multicultural"],
       "filename": "beder.png",
       "founded": "2011",
       "address": "Rr. Jordan Misja, Tirana, Albania",

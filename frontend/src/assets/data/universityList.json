@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Tirana Business University College",
-      "tags": ["business", "technology", "entrepreneurship", "international"],
+      "tags": ["business", "technology", "entrepreneurship", "international", "leader", "goal-oriented", "innovator", "ambition", "career-focused"],
       "filename": "tbu.png",
       "founded": "6 October 2010",
       "address": "Rruga Rezervat e Shtetit, Lundër, Tirana, Albania",
@@ -14,8 +14,8 @@
     {
       "id": 2,
       "name": "Aldent University",
+      "tags": ["health", "dentistry", "science", "practical", "nurturing", "problem-solver", "empathetic", "organized", "academic-track"],
       "filename": "Aldent.png",
-      "tags": ["health", "dentistry", "science", "practical"],
       "founded": "27 September 2006",
       "address": "Rruga e Dibrës, Nr. 235, Tirana 1000, Albania",
       "phone": "+355 (69) 318 1835",
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "name": "Epoka University",
-      "tags": ["engineering", "architecture", "economics", "research"],
+      "tags": ["engineering", "architecture", "economics", "research", "analytical", "innovator", "logical", "planner", "english-track"],
       "filename": "epoka.png",
       "founded": "12 March 2008",
       "address": "Rr. Tirane-Rinas, Km. 12, 1032 Vore, Tirana, Albania",
@@ -38,7 +38,7 @@
     {
       "id": 4,
       "name": "Logos University College",
-      "tags": ["humanities", "theology", "social sciences", "ethics"],
+      "tags": ["humanities", "theology", "social sciences", "ethics", "reflective", "empathetic", "teacher", "compassionate", "self-decision"],
       "filename": "logos.png",
       "founded": "6 April 2011",
       "address": "Tirana, Albania",
@@ -50,7 +50,7 @@
     {
       "id": 5,
       "name": "Our Lady of Good Counsel University",
-      "tags": ["medicine", "engineering", "social sciences", "catholic"],
+      "tags": ["medicine", "engineering", "social sciences", "catholic", "resilient", "empathetic", "structured", "goal-oriented", "family-funded"],
       "filename": "our_lady_of_good_console.png",
       "founded": "27 August 2004",
       "address": "Rr. Dritan Hoxha, Tirana, Albania",
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "name": "Ivodent Academy",
-      "tags": ["dental", "technology", "practical", "vocational"],
+      "tags": ["dental", "technology", "practical", "vocational", "problem-solver", "pragmatic", "technical", "organized", "career-focused"],
       "filename": "Ivodent_logo_ai.png",
       "founded": "19 February 2009",
       "address": "Rruga e Dibrës, Tirana, Albania",
@@ -74,7 +74,7 @@
     {
       "id": 7,
       "name": "KUQ (Qiriazi University College)",
-      "tags": ["education", "economics", "technology", "applied"],
+      "tags": ["education", "economics", "technology", "applied", "teacher", "helper", "structured", "focused", "job-track"],
       "filename": "KUQ.png",
       "founded": "10 May 2006",
       "address": "Rruga Taulantet, Kodër-Kamëz, Tirana 1029, Albania",
@@ -86,7 +86,7 @@
     {
       "id": 8,
       "name": "Kolegji Profesional i Tiranës (Professional College of Tirana)",
-      "tags": ["vocational", "technical", "practical", "industry"],
+      "tags": ["vocational", "technical", "practical", "industry", "pragmatic", "adaptable", "logical", "independent", "flexible-location"],
       "filename": "upt.png",
       "founded": "26 August 2015",
       "address": "Tirana, Albania",
@@ -98,7 +98,7 @@
     {
       "id": 9,
       "name": "Nehemiah Gateway University",
-      "tags": ["business", "economics", "education", "international"],
+      "tags": ["business", "economics", "education", "international", "leader", "strategic", "communicator", "innovator", "english-track"],
       "filename": "NGA.png",
       "founded": "4 June 2008",
       "address": "Rr. Nehemia 7304, Buçimas, Pogradec, Albania",
@@ -110,7 +110,7 @@
     {
       "id": 10,
       "name": "Luarasi University",
-      "tags": ["law", "economics", "IT", "professional"],
+      "tags": ["law", "economics", "IT", "professional", "analytical", "structured", "goal-oriented", "logical", "self-funded"],
       "filename": "luarasi.png",
       "founded": "N/A",
       "address": "Bulevardi Bajram Curri, European Trade Center, 5th Floor, Tirana, Albania",
@@ -122,7 +122,7 @@
     {
       "id": 11,
       "name": "Polis University",
-      "tags": ["architecture", "design", "urban planning", "innovation"],
+      "tags": ["architecture", "design", "urban planning", "innovation", "creative", "expressive", "idea-generator", "collaborative", "bilingual"],
       "filename": "polis-university.png",
       "founded": "11 October 2006",
       "address": "St. Bylis 12, Highway Tiranë-Durrës, Km 5, Kashar, Tirana, Albania",
@@ -134,7 +134,7 @@
     {
       "id": 12,
       "name": "Albanian University",
-      "tags": ["multidisciplinary", "research", "innovation", "urban"],
+      "tags": ["multidisciplinary", "research", "innovation", "urban", "explorer", "inquisitive", "adaptable", "reflective", "STEM", "business", "humanities", "social sciences"],
       "filename": "albanian_university.png",
       "founded": "10 April 2004",
       "address": "Bulevardi Zogu I, Tirana, Albania",
@@ -146,7 +146,7 @@
     {
       "id": 13,
       "name": "European University of Tirana",
-      "tags": ["law", "social sciences", "economics", "research"],
+      "tags": ["law", "social sciences", "economics", "research", "diplomatic", "resilient", "organized", "goal-oriented", "social sciences", "political science", "business"],
       "filename": "uet.png",
       "founded": "20 September 2006",
       "address": "Xhura Complex, St. Xhanfize Keko, Tirana, Albania",
@@ -158,7 +158,7 @@
     {
       "id": 14,
       "name": "Marin Barleti University",
-      "tags": ["entrepreneurship", "innovation", "mathematics", "languages"],
+      "tags": ["entrepreneurship", "innovation", "mathematics", "languages", "creative", "leader", "problem-solver", "strategic", "business", "STEM", "entrepreneurship"],
       "filename": "umb-logo.png",
       "founded": "12 August 2005",
       "address": "Rr. Frang Bardhi, Selitë, Tirana, Albania",
@@ -170,7 +170,7 @@
     {
       "id": 15,
       "name": "University of Tirana",
-      "tags": ["public", "humanities", "sciences", "social sciences"],
+      "tags": ["public", "humanities", "sciences", "social sciences", "empathetic", "introvert", "scientific", "teacher", "humanities", "social sciences", "STEM"],
       "filename": "university-of-tirana.png",
       "founded": "1957",
       "address": "Place, “Mother Tereza”, Tirana, Albania",
@@ -182,7 +182,7 @@
     {
       "id": 16,
       "name": "University College Canadian Institute of Technology (CIT)",
-      "tags": ["engineering", "business", "international", "english"],
+      "tags": ["engineering", "business", "international", "english", "goal-oriented", "communicator", "ambition", "independent", "STEM", "business"],
       "filename": "cit.png",
       "founded": "13 December 2011",
       "address": "Kompleksi 'UFO', Rr. Sami Frashëri, Tirana, Albania",
@@ -194,7 +194,7 @@
     {
       "id": 17,
       "name": "Mediterranean University of Albania",
-      "tags": ["law", "political science", "social sciences", "modern"],
+      "tags": ["law", "political science", "social sciences", "modern", "charismatic", "diplomatic", "relational", "resilient", "law", "social sciences", "political science"],
       "filename": "univerziteti-mesdhetar.png",
       "founded": "20 November 2006",
       "address": "Rr. Gjergj Fishta, Nd.70, H.1, Tirana, Albania",
@@ -206,7 +206,7 @@
     {
       "id": 18,
       "name": "Wisdom University College",
-      "tags": ["business", "psychology", "law", "development"],
+      "tags": ["business", "psychology", "law", "development", "empathetic", "reflective", "logical", "idea-generator", "business", "humanities", "social sciences"],
       "filename": "wisdom.png",
       "founded": "15 March 2006",
       "address": "Rruga Medar Shtylla, Kompleksi Usluga, Tirana, Albania",
@@ -218,7 +218,7 @@
     {
       "id": 19,
       "name": "Bedër University College",
-      "tags": ["communication", "humanities", "islamic studies", "multicultural"],
+      "tags": ["communication", "humanities", "islamic studies", "multicultural", "expressive", "compassionate", "collaborative", "charismatic", "humanities", "communication"],
       "filename": "beder.png",
       "founded": "2011",
       "address": "Rr. Jordan Misja, Tirana, Albania",
@@ -227,5 +227,4 @@
       "website": "https://beder.edu.al/",
       "description": "Bedër University College is a private institution that offers programs in humanities, communication sciences, and Islamic studies. Since 2011, it has provided education based on academic excellence, multicultural dialogue, and community service."
     }
-  ]
-
+    ]

@@ -128,6 +128,31 @@ const AboutUs = () => {
         </p>
       </section>
 
+      {/* Discord */}
+      <section className="mt-16 bg-gradient-to-br bg-indigo-700 p-8 rounded-2xl text-center shadow-xl">
+        <div className="max-w-2xl mx-auto relative">
+          <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 text-6xl">
+            
+          </div>
+          <h3 className="text-2xl font-semibold mb-4 text-white">
+            Want to talk?
+          </h3>
+          <p className="mb-6 text-white/95 leading-relaxed">
+            Join our Discord Channel where you can meet, talk to and ask advice from other universities and high-schoolers 
+          </p>
+          <button>
+            <a href='https://discord.gg/B9AdReR3' className="bg-white hover:bg-gray-50 text-indigo-700 font-bold px-8 py-4 rounded-full transition-all duration-300 flex items-center gap-2 mx-auto">
+              <span className="text-xl"></span>
+              Join Now!
+              <span className="text-xl"></span>
+            </a>
+          </button>
+        </div>
+      </section>
+
+
+
+
       {/* CTA Section */}
       <section className="mt-16 bg-gradient-to-br from-primary to-[#FFD700] p-8 rounded-2xl text-center shadow-xl">
         <div className="max-w-2xl mx-auto relative">
@@ -147,6 +172,7 @@ const AboutUs = () => {
           </button>
         </div>
       </section>
+
     </main>
   );
 };

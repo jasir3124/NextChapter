@@ -42,13 +42,23 @@ export default function ResultsPage() {
                 <ul className="space-y-6">
                     {recommendations.map((uni) => (
                         <li key={uni.id} className="border p-6 rounded-lg shadow-sm">
-                            <h2 className="text-2xl font-semibold">{uni.name}</h2>
-                            <p className="text-gray-600 mb-2">Match score: {uni.score}</p>
-                            <p className="text-gray-800">{uni.description}</p>
-                            <p className="mt-2 text-sm text-gray-500">
-                                <strong>Tags:</strong> {uni.tags.join(', ')}
-                            </p>
-                        </li>
+                        <div className="flex items-center gap-4 mb-2">
+                            <img 
+                                src={require(`../assets/UniLogos/${uni.filename}`)}
+                                alt={uni.name}
+                                className="w-16 h-16 object-contain rounded-md bg-white"
+                            />
+                            <div>
+                                <h2 className="text-2xl font-semibold">{uni.name}</h2>
+                                <p className="text-gray-600">Match score: {uni.score}</p>
+                            </div>
+                        </div>
+                        <p className="text-gray-800">{uni.description}</p>
+                        <p className="mt-2 text-sm text-gray-500">
+                            <strong>Tags:</strong> {uni.tags.join(', ')}
+                        </p>
+                    </li>
+                    
                     ))}
                 </ul>
             </div>

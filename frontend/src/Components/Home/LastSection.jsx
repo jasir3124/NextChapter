@@ -3,10 +3,10 @@ import { Link } from "react-router-dom"; // Or your preferred router
 
 const LastChapter = () => {
     return (
-        <section className="bg-[#222222] text-white py-20 px-6">
+        <section className="bg-[#F8B703]/10 text-white py-20 px-6">
             <div className="max-w-4xl mx-auto text-center">
-                <h2 className="text-5xl font-bold mb-6">Ready to Discover Your Path?</h2>
-                <p className="text-lg text-gray-300 mb-8">
+                <h2 className="text-5xl font-bold mb-6 text-darkBrown">Ready to Discover Your Path?</h2>
+                <p className="text-lg text-darkGray mb-8">
                     Your future starts with one click. Take the quiz and let us guide you to the university program that fits your dreams.
                 </p>
                 <Link
